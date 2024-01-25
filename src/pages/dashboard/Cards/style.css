@@ -1,0 +1,17 @@
+.green {
+    background: #55bc55;
+    width: 20px;
+    height: 18px;
+    border: none;
+    border-radius: 4px;
+    margin: 0px 5px;
+}
+
+.lightGreen {
+    background: #17cc7c;
+    width: 20px;
+    height: 18px;
+    border: none;
+    border-radius: 4px;
+    margin: 0px 8px;
+}
